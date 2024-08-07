@@ -1,0 +1,25 @@
+button{
+    width: 50px;
+    height: 50px;
+}
+input{
+width: 100%;
+height: 30px;
+}
+.color{
+   color: #0c0f42;
+
+}
+.my-button {
+    background-color:#0c0f42; 
+    border: none; 
+    color: white;
+    font-size: 16px;
+    padding: 10px 30px;
+    text-align: center;
+}
+.buttons{
+    color: white;
+    font-size: 10px;
+    
+}
